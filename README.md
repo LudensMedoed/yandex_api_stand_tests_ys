@@ -1,1 +1,0 @@
-# yandex_api_stand_tests_ys
