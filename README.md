@@ -32,7 +32,8 @@ ELSE 0 END AS status
       
 FROM "Orders";
 2. Автоматизация теста.
-Для запуска теста необходимо в файл configuration скопировить URL стенда: https://b03a00ca-f70c-4cbe-a5d0-ef3f46034696.serverhub.praktikum-services.ru
+Для запуска теста необходимо в файл configuration скопировить URL стенда: https://1d3ce59b-1ce3-447a-9cce-66df7b4fe574.serverhub.praktikum-services.ru
 
+После чего нажать кнопку Run для запуска автотеста
 
 Скриншоты автоматизации в репозитории
